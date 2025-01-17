@@ -90,4 +90,4 @@ Não use termos técnicos
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com ❤️ por [Lídia Silva](https://github.com/lidiacrisilva)
