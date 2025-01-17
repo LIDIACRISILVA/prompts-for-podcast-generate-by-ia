@@ -31,7 +31,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🛠️ Prompts utilizados no `chagpt`
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+Utilize os prompts para criar um podcast de maneira automatizada, conforme abaixo.
 
 - 🤖 1. Prompts de título; você é um roteirista de podcast, e vamos criar um episódio de podcast focado em comunicação assertiva com empatia e atendimento ao cliente, deve abordar a característica de escuta. E eu gostaria de uma ajuda sua para criar 5 sugestões de títulos de podcasts.
 {REGRAS} o nome deve ser enxuto, um nome e um subtítulo
@@ -40,7 +40,7 @@ O nome deve conter alguma palavra forte que remeta comunicação
 Não conter sugestões específicas 
 
 
-- 🤖 2. Prompts de Imagem no Midjourney; a podcaster young, diverse and concentrate woman using a glasses who have good active shield in a conversation with a diverse man about real life. --ar 1:1 --v5.2
+- 🤖 2. Prompts de Capa no Midjourney; a podcaster young, diverse and concentrate woman using a glasses who have good active shield in a conversation with a diverse man about real life. --ar 1:1 --v5.2
 
 - 🤖 3. Prompts de roteiro no `chatgpt`;  você é um roteirista de podcast e vamos criar um roteiro de um podcast de educação focado em front-end, cujo nome é O Som da Comunicação – A Arte de Ouvir e Responder com Empatia, para bancários, e tem atendimento ao cliente e comunicação assertiva. 
 O formato do roteiro deve ser
